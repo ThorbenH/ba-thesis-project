@@ -57,7 +57,7 @@ s
 
 ```
 
-## Software_Device
+## Plot_Calibration
 
 Contains a the python code to visualize a calibration as gathered by the device (see Software_Device).
 To get the calibration matrix you can use the tool Magneto v1.2 at https://sites.google.com/view/sailboatinstruments1 .
