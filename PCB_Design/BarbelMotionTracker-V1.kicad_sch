@@ -1,0 +1,133 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "81f67669-a33e-4ca9-9a26-47a4e11e7b6e")
+	(paper "A4")
+	(title_block
+		(title "Barbel Motion Tracker")
+		(date "2024-08-16")
+		(rev "1")
+		(company "Thorben Horn")
+	)
+	(lib_symbols)
+	(sheet
+		(at 196.85 26.67)
+		(size 66.04 25.4)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "18d22eab-52a4-45ba-a420-c6f4dfd7fcb9")
+		(property "Sheetname" "sensors"
+			(at 196.85 25.9584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sensors.kicad_sch"
+			(at 196.85 52.6546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "BarbelMotionTracker-V1"
+				(path "/81f67669-a33e-4ca9-9a26-47a4e11e7b6e"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 29.21 26.67)
+		(size 59.69 24.13)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e8a97655-e5e4-4b2b-a219-c77c31bb40b5")
+		(property "Sheetname" "microcontroller"
+			(at 29.21 25.9584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "microcontroller.kicad_sch"
+			(at 29.21 51.3846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "BarbelMotionTracker-V1"
+				(path "/81f67669-a33e-4ca9-9a26-47a4e11e7b6e"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 101.6 26.67)
+		(size 67.31 25.4)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "eaa8e7f1-d4be-43b6-b0d6-cd66b174d839")
+		(property "Sheetname" "display_controls_sdcard"
+			(at 101.6 25.9584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "display_control_sdcard.kicad_sch"
+			(at 101.6 52.6546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "BarbelMotionTracker-V1"
+				(path "/81f67669-a33e-4ca9-9a26-47a4e11e7b6e"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)

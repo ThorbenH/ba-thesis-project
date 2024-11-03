@@ -1,0 +1,14 @@
+{
+    "exercise_to_index": {
+        "b": 0,
+        "s": 1,
+        "o": 2,
+        "c": 3
+    },
+    "index_to_exercise_string": {
+        "0": "Bench\npress",
+        "1": "Barbell\nback squat",
+        "2": "Overhead\npress",
+        "3": "Bicep\ncurl"
+    }
+}
